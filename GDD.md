@@ -36,3 +36,100 @@ D.h. der Spieler muss weitere Strecken laufen, um an Resourcen zu kommen, weshal
 \
 Sobald man mit mindestens 5 Spielern ein Dorf gegründet hat, kann man außerdem Wachen (NPCs) für Gold einstellen, die das Dorf beschützen, wenn die Spieler offline sind.\
 Dafür könnten die Spieler dann wieder Steuern erheben und diese wiederum in einem gemeinsamen Lagerhaus lagern (--> Goldschatz).
+
+## 1.3 Ziel-Plattformen
+
+Wir konzentrieren uns lediglich auf **Windows & Linux**, Mac OSX wird vorerst nicht offiziell supportet, da der Aufwand dafür zu hoch ist.\
+Desweiteren werden keine mobilen Geräte (Android / iOS) unterstützt.
+
+**Minimale Systemanforderungen**:
+
+  - Java 8+ installiert
+  - OpenJDK und OracleJDK Support
+  - CPU: mindestens ein i3-3217U oder vergleichbar
+  - mindestens 4GB RAM (inkl. OS --> 2GB RAM fürs Spiel)
+  - 4GB freier Speicherplatz
+  - GPU: OpenGL 2.0+ mit Framebuffer Extension
+  - Minimale Bildschirmauflösung: 800x600 Pixel
+  - Plattform: Windows 7+ (64 Bit), Linux (64 Bit) oder Mac OSX 10.10+ (inoffiziell, evtl. später)
+  
+## 1.4 Localization / Multi-Language
+
+Jeder auf der Welt soll dieses Spiel spielen können, sofern er die Sprache kann und seine Plattform unterstützt wird.\
+Die Systemanforderungen müssen also erfüllt sein.\
+\
+Folgende **Sprachen** sind geplant:
+
+  - Deutsch (Standard)
+  - Englisch
+  
+Beide Sprachen werden parallel entwickelt, d.h. es wird nicht erst alles Deutsch gemacht und dann ins englische übersetzt, sondern direkt Hand in Hand.
+
+## 1.5 Zielgruppe
+
+  - FSK 12
+  - Spieler im Alter 12 - 99
+  - Fantasy
+  - RPG
+  - 2D Pixelart
+  - Indie
+  - Massive Multiplayer Online Game (MMO)
+  - Meta Gaming
+  - Explorer / Farmer usw.
+  - muss noch ergänzt werden.
+  
+## 1.6 Project Scope (Projekt-Umfang)
+
+### 1.6.1 Game Time Scale
+
+Wird später ergänzt. Das Projekt darf 2 Jahre nicht überschreiten, nach spätestens einem halben Jahr soll bereits eine kleine Dev-Preview für Beta Tester erscheinen.
+
+### 1.6.2 Team-Größe
+
+Wird später ergänzt.
+
+### 1.6.3 Benötigte Lizenzen / Hardware / andere Kosten
+
+Die Hardware besitzt jeder Entwickler selbst. Hierfür fallen keine Kosten an.
+Evtl. Überlegungen:
+
+  - Photoshop / Affinity Photo / Affinity Designer
+  - [Aseprite](https://www.aseprite.org/) (für Pixel-Animationen)
+      * bei der kostenlosen Version kann man nicht Speichern --> wenn dann kaufen
+  - evtl. [Sprite Lamp](http://store.steampowered.com/app/316830/Sprite_Lamp/)
+      * 31,99€, Pro Version: 82,99€
+
+Diese muss der jeweilige Entwickler selbst tragen, falls keine Ausnahme durch die Projektleitung besteht.\
+Für Affinity Photo & Asesprite existieren besitzen wir noch freie Lizenzen.
+
+### 1.6.4 Totale Kosten
+
+Steam Gebühr: 100 US-Dollar
+
+## 1.7 Einflüsse
+
+Die folgenden Spiele haben uns als Inspiration gedient:
+
+  - **League of Legends**
+  - World of Warcraft
+  - Dark Souls
+  - **Ultima Online** (the first MMO in the world)
+  - The Elder Scrolls Online
+  
+## 1.8 Elevator Pitch
+
+Muss noch ergänzt werden.
+
+## 1.9 Was macht das Projekt aus? Was unterscheidet es von anderen (Alleinstellungsmerkmale)?
+
+## 1.10 Content Updates & Mods
+
+# 2 Gameplay
+
+# 3 Content & Story
+
+# 4 Grobe Gebietsskizze
+
+# 5 UI / HUD Design
+
+# 6 Audio Style / Audio Design
