@@ -130,6 +130,10 @@ Muss noch ergänzt werden.
 
 ## 3.1 Waren
 
+  - Nahrung
+  - Futter für Tiere (?)
+  - Gold (als Währungsmittel)
+
 ## 3.2 Transportmittel
 
 ### 3.2.1 Pferd
