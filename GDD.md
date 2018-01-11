@@ -149,6 +149,8 @@ Muss noch ergänzt werden.
   - sehr squishy
   - selten und schwierig zu zähmen
   - wenig Tragfähigkeit
+  - Futter
+      * kann Trockenfutter nicht ab
   
 ### 3.2.3 Riesenechse
 
@@ -156,6 +158,8 @@ Muss noch ergänzt werden.
   - Robust genug für Scharmützel
   - keine Probleme durch felsiges oder sumpfiges Terrain
   - einfach zu zähmen
+  - Futter
+      * Fleisch
   
 ### 3.2.4 Wyvern
 
@@ -165,6 +169,8 @@ Muss noch ergänzt werden.
   - fliegend
   - gleich schnell wie Pferde
   - hoher Futterverbrauch
+  - Futter
+      * Fleisch
   
 ### 3.2.5 Kamel
 
@@ -172,6 +178,9 @@ Muss noch ergänzt werden.
   - Echsenlangsam
   - hohe Tragfähigkeit
   - einfach zu zähmen
+  - Futter
+      * Trockenfutter
+      
 
 # 4 Grobe Gebietsskizze
 
