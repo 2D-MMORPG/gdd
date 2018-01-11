@@ -128,6 +128,47 @@ Muss noch ergänzt werden.
 
 # 3 Content & Story
 
+## 3.1 Waren
+
+## 3.2 Transportmittel
+
+### 3.2.1 Pferd
+
+  - deutlich schneller als zu Fuß
+  - mittelmäßig robust
+  - einfach zu zähmen
+  
+### 3.2.2 Pegasus
+
+  - schneller als Pferd
+  - fliegend
+  - sehr squishy
+  - selten und schwierig zu zähmen
+  - wenig Tragfähigkeit
+  
+### 3.2.3 Riesenechse
+
+  - gerade so schnell als zu Fuß
+  - Robust genug für Scharmützel
+  - keine Probleme durch felsiges oder sumpfiges Terrain
+  - einfach zu zähmen
+  
+### 3.2.4 Wyvern
+
+  - extrem selten
+  - sehr schwierig zu zähmen
+  - robust
+  - fliegend
+  - gleich schnell wie Pferde
+  - hoher Futterverbrauch
+  
+### 3.2.5 Kamel
+
+  - wenig Futterverbrauch
+  - Echsenlangsam
+  - hohe Tragfähigkeit
+  - einfach zu zähmen
+
 # 4 Grobe Gebietsskizze
 
 # 5 UI / HUD Design
