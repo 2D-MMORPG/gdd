@@ -187,7 +187,9 @@ Muss noch ergänzt werden.
 
 # 5 UI / HUD Design
 
-## 5.1 Lebensbalken
+## 5.1 HUD (Head-Up Display)
+
+###5.1.1 Lebensbalken
 
 Je nachdem wie voll der Lebensbalken ist, soll er eine andere Farbe haben.
 
@@ -196,5 +198,9 @@ Je nachdem wie voll der Lebensbalken ist, soll er eine andere Farbe haben.
   - < 50% yellow
   - < 25% orange
   - < 10% rot
+  
+## UI Workflow
+
+![UI Workflow](./images/ui_workflow.png)
 
 # 6 Audio Style / Audio Design
