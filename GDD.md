@@ -10,6 +10,7 @@
   - **Theme**: ?
   - **Setting**: Mittelalter Fantasy
   - **Genre**: 2D Sandbox (teilweise Open World) MMORPG mit RPG-, Survival-, Aufbau- und Simulationsaspekten
+  - **Grafikstil**: 2D Top-Down PixelArt mit orthogonalen Tiles
   
 ## 1.2 Zusammenfassung
 
@@ -190,10 +191,10 @@ Muss noch ergänzt werden.
 
 Je nachdem wie voll der Lebensbalken ist, soll er eine andere Farbe haben.
 
-  - >= 70% dark green
-  - < 70% light green
+  - >= 75% dark green
+  - < 75% light green
   - < 50% yellow
-  - < 20% orange
+  - < 25% orange
   - < 10% rot
 
 # 6 Audio Style / Audio Design
