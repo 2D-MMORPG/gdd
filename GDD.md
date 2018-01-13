@@ -186,4 +186,14 @@ Muss noch ergänzt werden.
 
 # 5 UI / HUD Design
 
+## 5.1 Lebensbalken
+
+Je nachdem wie voll der Lebensbalken ist, soll er eine andere Farbe haben.
+
+  - >= 70% dark green
+  - < 70% light green
+  - < 50% yellow
+  - < 20% orange
+  - < 10% rot
+
 # 6 Audio Style / Audio Design
