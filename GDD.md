@@ -199,8 +199,8 @@ Je nachdem wie voll der Lebensbalken ist, soll er eine andere Farbe haben.
   - < 25% orange
   - < 10% rot
   
-## UI Workflow
+## UI Zustandsdiagramm
 
-![UI Workflow](./images/ui_workflow.png)
+![UI Diagram](./images/ui_workflow.png)
 
 # 6 Audio Style / Audio Design
