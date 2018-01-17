@@ -1,4 +1,4 @@
-﻿# Game Design Document (GDD)
+# Game Design Document (GDD)
 
 ## Table of Contents
 
@@ -126,6 +126,18 @@ Muss noch ergänzt werden.
 ## 1.10 Content Updates & Mods
 
 # 2 Gameplay
+
+## 2.1 Überblick
+
+## 2.2 Steuerung
+
+### Bewegung
+Der Spieler soll mit der **Maus** bewegt werden, wobei der Spieler wie bei dem Spiel "League of Legends" auf einen Punkt klickt und der Charakter dann durch das Pathfinding gesteuert sich zu diesem Punkt hinbewegt.
+
+### Kampfsystem
+
+Der Spieler kann **Nahkampf** und **Fähigkeiten** anwenden. Nahkampf durch Drücken der rechten Maustaste auf den anderen Charakter und Fähigkeiten durch die Tasten Q, W, E und D. Somit kann der Spieler auch maximal 4 Kampffähigkeiten ausführen, welche aber außerhalb des Kampfes austauschbar sind.
+
 
 # 3 Content & Story
 
