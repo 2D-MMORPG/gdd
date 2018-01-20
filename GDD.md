@@ -197,11 +197,17 @@ Der Spieler kann **Nahkampf** und **Fähigkeiten** anwenden. Nahkampf durch Drü
 
 # 4 Grobe Gebietsskizze
 
-# 5 UI / HUD Design
+# 5 Grafik
 
-## 5.1 HUD (Head-Up Display)
+## 5.1 Perspektive
 
-###5.1.1 Lebensbalken
+Das Spiel soll eine 2D Top-Down (45 Grad) Perspektive mit orthogonalen Tiles erhalten.
+
+# 6 UI / HUD Design
+
+## 6.1 HUD (Head-Up Display)
+
+### 6.1.1 Lebensbalken
 
 Je nachdem wie voll der Lebensbalken ist, soll er eine andere Farbe haben.
 
@@ -215,4 +221,4 @@ Je nachdem wie voll der Lebensbalken ist, soll er eine andere Farbe haben.
 
 ![UI Diagram](./images/ui_workflow.png)
 
-# 6 Audio Style / Audio Design
+# 7 Audio Style / Audio Design
